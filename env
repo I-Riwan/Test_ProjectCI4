@@ -20,7 +20,7 @@
 # APP
 #--------------------------------------------------------------------
 
-app.baseURL = 'https://i-riwan.github.io/Test_ProjectCI4'
+app.baseURL = 'https://i-riwan.github.io/Test_ProjectCI4/'
 # app.forceGlobalSecureRequests = false
 
 # app.sessionDriver = 'CodeIgniter\Session\Handlers\FileHandler'
